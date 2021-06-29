@@ -1,5 +1,5 @@
 ## Requirements:
-- This algorithm implemented and tested in Python version 3.7.10.
+- This algorithm is implemented and tested using Python version 3.7.10.
 - Use ```pip install -r /path/to/requirements.txt``` to install Flask and other modules necessary.
 
 ## Simple Flask Implementation:
