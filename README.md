@@ -2,7 +2,7 @@
 - This algorithm implemented and tested in Python version 3.7.10.
 - Use ```pip install -r /path/to/requirements.txt``` to install Flask and other modules necessary.
 
-# Simple Flask Implementation:
+## Simple Flask Implementation:
 - The BaseURL is set to ```http://127.0.0.1:5000/``` and the endpoint is set to ```test```.
 - Simply use python requests to test the server.
 
