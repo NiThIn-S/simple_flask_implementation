@@ -16,5 +16,5 @@
       ```
       import requests
       r = requests.post('http://127.0.0.1:5000/test', json=None)
-      print("Request with payload.\n",r.json())
+      print("Request without any payload.\n",r.json())
       ``` 
